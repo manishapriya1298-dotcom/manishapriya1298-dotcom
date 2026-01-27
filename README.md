@@ -1,4 +1,4 @@
- # 👋 Hi, I'm [Manisha Priyadharsini]  
+ # 👋 Hi, I'm Manisha Priyadharsini
 
 💡 **Data Science Explorer** | 🧠 **Machine Learning Enthusiast** | 🐍 **Python Developer**
 
@@ -28,7 +28,7 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)  
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)  
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)  
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)  
+ 
 
 ---
 
