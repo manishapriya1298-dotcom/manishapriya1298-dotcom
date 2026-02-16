@@ -9,8 +9,8 @@
 💻 Skilled in **Python, SQL, Pandas, NumPy, Scikit-learn, TensorFlow, Power BI,NLP,**  
 📊 Hands-on experience with projects like:  
 - 🧠 **Intelligent Resume based job matchings** (AI,NLP, Cloud computing)  
-- 💳 **PhonePe Transaction Insights** (Interactive Analytics Dashboard)  
-- 🏠 **Luxury Housing Sales Analysis** (Predictive Modeling & Visualization)  
+- 💳 **Brain Tumour Classification**  (Predictive Modeling & Visualization)  
+- 🏠 **Video Relevance Score** 
 
 🌱 Currently exploring **Model Deployment (Streamlit, Flask)** and **Feature Engineering**  
 🤝 Open to collaborating on **data-driven, ML-based, and open-source projects**  
